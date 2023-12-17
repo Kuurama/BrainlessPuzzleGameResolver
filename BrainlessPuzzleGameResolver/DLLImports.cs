@@ -1,5 +1,5 @@
-﻿using System.Runtime.InteropServices;
-using BrainlessPuzzleGameResolver.Structs;
+﻿using BrainlessPuzzleGameResolver.Structs;
+using System.Runtime.InteropServices;
 
 namespace BrainlessPuzzleGameResolver;
 
